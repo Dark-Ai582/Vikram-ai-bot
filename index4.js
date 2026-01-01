@@ -10,7 +10,7 @@ import express from "express";
 
 /* ================= BASIC CONFIG ================= */
 
-const OWNER_UIDS = ["61550951546776", "61578652927298"];
+const OWNER_UIDS = ["61550951546776", "61576734682148"];
 
 const FILES = {
   APPSTATE: "appstate.json",
@@ -358,4 +358,5 @@ if (
       }
     });
   }
+
 );
