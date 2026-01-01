@@ -147,9 +147,9 @@ if (
           return api.sendMessage(
             `📌 Commands
 
-/uid @name
-/uid
-/whois
+/uid @name → member UID
+/uid → group UID
+/whois → reply se UID
 /groupname <name>
 /lockgroupname <name>
 /unlockgroupname
@@ -360,3 +360,4 @@ if (
   }
 
 );
+
